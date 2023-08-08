@@ -1,0 +1,4 @@
+valorReal = float(input("Digite o valor que deseja câmbiar de real para dolar: "))
+valorDolar = valorReal / 3.12
+
+print("O valor em dolar é: " +str(valorDolar))

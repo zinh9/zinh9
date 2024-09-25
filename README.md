@@ -1,22 +1,22 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=450&pause=1000&width=435&lines=Hello+There+%F0%9F%91%8B" alt="Typing SVG" /></a>
-## My name is Vinicius
-( HTML | CSS | Javascript | Java | PHP | Laravel | CodeIgniter | Python | Django | Flask | FastAPI | PWA ) 🚀
+## My name is Enzo
+(Java | JavaFX | Spring Boot | Hibernate | JPA | PHP | Python | Flask | SQL) 🚀
 <ul>
-  <li>👨‍💻 Fullstack Developer</li>
+  <li>👨‍💻 Backend Developer</li>
   <li>🎓 Computing Student @IFES</li>
   <li>💡 Love a good challenge
 </li>
 </ul>
 
 <div>
-  <a href="https://github.com/viniciusxv27">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusxv27&layout=compact&langs_count=7&theme=react"/>
+  <a href="https://github.com/zinh9">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zinh9&layout=compact&langs_count=7&theme=react"/>
 </div>
 
 <br>
 
 <div style="display: inline_block; background-color: white">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">

@@ -4,8 +4,8 @@
 <ul>
   <li>👨‍💻 Backend Developer</li>
   <li>🎓 Computing Student @IFES</li>
-  <li>💡 Love a good challenge
-</li>
+  <li>💻 ADS @UVV</li>
+  <li>💡 Love a good challenge</li>
 </ul>
 
 <div>

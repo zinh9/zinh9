@@ -1,11 +1,11 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=450&pause=1000&width=435&lines=Hello+There+%F0%9F%91%8B" alt="Typing SVG" /></a>
-## My name is Enzo
+## Meu nome é Enzo
 (Java | JavaFX | Spring Boot | Hibernate | JPA | PHP | ASP Classic | Python | SQL) 🚀
 <ul>
-  <li>👨‍💻 Backend Developer</li>
-  <li>🎓 Computing Student @IFES</li>
+  <li>👨‍💻 Desenvolvedor Backend</li>
+  <li>🎓 Técnico em Informática @IFES</li>
   <li>💻 ADS @UVV</li>
-  <li>💡 Love a good challenge</li>
+  <li>💡 Amante da Tecnologia</li>
 </ul>
 
 <div>

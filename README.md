@@ -4,7 +4,7 @@
 <ul>
   <li>👨‍💻 Desenvolvedor Backend</li>
   <li>🎓 Técnico em Informática @IFES</li>
-  <li>💻 ADS @UVV</li>
+  <li>💻 Análise e Desenvolvimento de Sistemas @UVV</li>
   <li>💡 Amante da Tecnologia</li>
 </ul>
 

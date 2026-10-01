@@ -15,7 +15,7 @@
 - 💻 Cursando Análise e Desenvolvimento de Sistemas na **UVV**
 - 🏢 Estagiário de TI, desenvolvendo e dando manutenção em sistemas internos (ASP Classic, SQL Server, Access)
 - 🎯 Foco: **desenvolvimento backend com Java e Spring Boot**
-- 📚 Estudando agora: _(coloque aqui, ex: Spring Security, testes com JUnit, Docker)_
+- 📚 Estudando agora: Spring Cloud e JTW
 
 ## 🛠️ Stack
 
